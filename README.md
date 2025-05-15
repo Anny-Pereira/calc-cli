@@ -1,4 +1,2 @@
 # calc-cli
-
-
-#descrição breve
+#seção USAGE
